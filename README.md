@@ -12,12 +12,10 @@ The project follows an end-to-end analytics workflow, from data preparation and 
 - Develop interactive dashboards to support business decision-making.
 
 ## Tools and Technologies
-
-| Tool |                             | Purpose |
-| Microsoft Excel | Data cleaning, PivotTables, KPI analysis and dashboards |
-| MySQL | Database management, SQL queries, data validation and business analysis |
-| Tableau | Interactive dashboards and data visualization |
-| Power BI | Power Query, data modeling, DAX measures and advanced analytics |
+| Microsoft Excel - Data cleaning, PivotTables, KPI analysis and dashboards |
+| MySQL - Database management, SQL queries, data validation and business analysis |
+| Tableau - Interactive dashboards and data visualization |
+| Power BI - Power Query, data modeling, DAX measures and advanced analytics |
 
 ## Dataset Overview
 The project uses the Global Superstore dataset, containing three main datasets:
@@ -26,17 +24,14 @@ The project uses the Global Superstore dataset, containing three main datasets:
 - **People:** Regional manager information.
 
 ### Key Dataset Metrics
-
-| Metric |           | Value |
-
-| Order-line records | 51,313 |
-| Distinct orders | 25,035 |
-| Total sales | $12,643,332.95 |
-| Total profit | $1,467,402.45 |
-| Total quantity | 178,379 |
-| Profit margin | 11.61% |
-| Return records | 1,173 |
-| People records | 13 |
+| Order-line records - 51,313 |
+| Distinct orders - 25,035 |
+| Total sales - $12,643,332.95 |
+| Total profit - $1,467,402.45 |
+| Total quantity - 178,379 |
+| Profit margin - 11.61% |
+| Return records - 1,173 |
+| People records - 13 |
 *These are project baseline figures. Profit margin is calculated as total profit divided by total sales.*
 
 ## Project Workflow
@@ -55,14 +50,12 @@ The project includes dashboard development using three visualization platforms:
 Dashboard screenshots are available in the [`screenshots`](screenshots/) folder.
 
 ## Repository Structure
-
-| Folder |                                       | Description |
-| [excel](excel/) |                          Excel analysis workbook |
-| [sql](sql/) |                              MySQL scripts and analysis |
-| [tableau](tableau/) |                      Tableau workbook and dashboard files |
-| [powerbi](powerbi/) |                      Power BI report files |
-| [screenshots](screenshots/) |              Dashboard preview images |
-| [documentation](documentation/) |          Project presentation and documentation |
+| [excel](excel/) -                          Excel analysis workbook |
+| [sql](sql/) -                              MySQL scripts and analysis |
+| [tableau](tableau/) -                      Tableau workbook and dashboard files |
+| [powerbi](powerbi/) -                      Power BI report files |
+| [screenshots](screenshots/) -              Dashboard preview images |
+| [documentation](documentation/) -          Project presentation and documentation |
 
 ## Key Performance Indicators
 The project analyzes the following business metrics:
